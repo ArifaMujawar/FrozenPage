@@ -37,12 +37,12 @@ body {
 .add-bottom {
     position: absolute;
     top: 520px;/*84%*/
-    left: 770px; /*61%*/
+    left: 860px; /*61%*/
 }
 .add-bottom-text {
     position: absolute;
     top: 560px;/*92%*/
-    left: 800px;/*64%*/
+    left: 900px;/*64%*/
     color: white;
     font-size: 20px;
 }
