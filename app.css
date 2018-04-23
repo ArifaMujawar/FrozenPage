@@ -1,10 +1,14 @@
 *{
     font-family: Arial;
 }
+body {
+    margin: 0px;
+}
 .container{
     width:1118px;
     margin: 0 auto;
     text-align: center;
+   
 }
 .navbar {
     background:rgb(221, 218, 219);
@@ -28,6 +32,9 @@
 .main-image {
     margin: 0px;
     width: 1100px;
+}
+#bg-home {
+    display: block;
 }
 .add-bottom {
     position: absolute;
